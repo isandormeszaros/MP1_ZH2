@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "XJ3UMD/1.0.0": {
+        "runtime": {
+          "XJ3UMD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XJ3UMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

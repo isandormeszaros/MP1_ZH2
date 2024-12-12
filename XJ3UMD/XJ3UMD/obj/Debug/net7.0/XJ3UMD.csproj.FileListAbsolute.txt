@@ -1,0 +1,15 @@
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/bin/Debug/net7.0/XJ3UMD
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/bin/Debug/net7.0/XJ3UMD.deps.json
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/bin/Debug/net7.0/XJ3UMD.runtimeconfig.json
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/bin/Debug/net7.0/XJ3UMD.dll
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/bin/Debug/net7.0/XJ3UMD.pdb
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.csproj.AssemblyReference.cache
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.AssemblyInfoInputs.cache
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.AssemblyInfo.cs
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.csproj.CoreCompileInputs.cache
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.dll
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/refint/XJ3UMD.dll
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.pdb
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/XJ3UMD.genruntimeconfig.cache
+/Users/Sandor/Downloads/MP2_NAP_ZH2/XJ3UMD/XJ3UMD/obj/Debug/net7.0/ref/XJ3UMD.dll

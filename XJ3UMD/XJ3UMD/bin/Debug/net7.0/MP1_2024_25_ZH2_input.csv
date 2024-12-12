@@ -1,0 +1,490 @@
+kód;tárgy neve;vizsgamód;időpont;max;jelentkezett;terem
+LBT_IM345K2;Operációkutatás;I;2024.11.25 11:30;15;15;C104
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.11.25 11:30;40;0;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.11.25 13:00;10;1;C124
+LBT_IM643K2;Szoftverjog;I;2024.11.25 09:30;95;83;C121
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.25 13:00;95;71;C205
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.11.25 10:00;50;37;C124
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.11.25 15:00;90;90;C203
+NBT_IM456K3;Operációs rendszerek;Sz;2024.11.25 10:00;45;41;C104
+NBT_IM345K2;Operációkutatás;I;2024.11.25 15:00;50;46;C203
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.26 11:30;25;7;C205
+TBT_IM643K2;Szoftverjog;Sz;2024.11.26 15:00;40;3;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.26 09:30;95;54;C104
+TBT_IM123K3;Kalkulus I;I;2024.11.26 10:00;5;2;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.11.26 13:00;20;17;C104
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.11.26 10:00;20;3;C121
+TBT_IM345K2;Operációkutatás;Sz;2024.11.26 09:30;60;0;C203
+LBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.11.26 11:30;65;29;C204
+LBT_IM123K3;Kalkulus I;I;2024.11.26 11:30;70;65;C204
+NBT_IM345K2;Operációkutatás;Sz;2024.11.26 10:00;5;4;C205
+NBT_IM643K2;Szoftverjog;Sz;2024.11.26 11:30;20;19;C121
+NBT_IM123K3;Kalkulus I;I;2024.11.27 15:00;35;22;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.27 09:30;20;8;C104
+NBT_IM123K3;Kalkulus I;Sz;2024.11.27 11:30;5;0;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.27 10:00;70;2;C104
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.11.27 10:00;85;0;C203
+TBT_IM345K2;Operációkutatás;I;2024.11.27 11:30;25;21;C124
+TBT_IM987K2;Programozási technológiák;Sz;2024.11.27 11:30;25;21;C203
+TBT_IM643K2;Szoftverjog;I;2024.11.27 15:00;25;8;C204
+TBT_IM456K3;Operációs rendszerek;I;2024.11.27 15:00;70;29;C121
+LBT_IM643K2;Szoftverjog;I;2024.11.28 11:30;55;10;C203
+LBT_IM123K3;Kalkulus I;Sz;2024.11.28 15:00;60;12;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.11.28 09:30;15;13;C203
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.11.28 10:00;95;44;C104
+NBT_IM345K2;Operációkutatás;I;2024.11.28 13:00;50;24;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.28 11:30;70;30;C204
+TBT_IM643K2;Szoftverjog;I;2024.11.28 13:00;45;29;C205
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.28 11:30;80;38;C203
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.28 13:00;70;52;C204
+LBT_IM643K2;Szoftverjog;I;2024.11.29 10:00;75;69;C104
+LBT_IM456K3;Operációs rendszerek;I;2024.11.29 15:00;20;16;C124
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.11.29 13:00;55;5;C124
+TBT_IM345K2;Operációkutatás;I;2024.11.29 11:30;55;45;C124
+LBT_IM123K3;Kalkulus I;Sz;2024.11.29 11:30;10;0;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.11.29 15:00;60;14;C203
+LBT_IM123K3;Kalkulus I;Sz;2024.11.29 13:00;5;5;C104
+LBT_IM643K2;Szoftverjog;Sz;2024.11.29 11:30;75;58;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.11.29 11:30;40;40;C204
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.29 11:30;85;79;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.29 09:30;80;51;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.11.29 15:00;70;31;C104
+NBT_IM643K2;Szoftverjog;I;2024.11.30 09:30;10;5;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.11.30 13:00;15;12;C204
+LBT_IM345K2;Operációkutatás;I;2024.11.30 09:30;40;33;C203
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.11.30 11:30;25;18;C104
+TBT_IM345K2;Operációkutatás;I;2024.11.30 15:00;25;15;C204
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.11.30 15:00;65;54;C121
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.11.30 10:00;95;6;C104
+NBT_IM345K2;Operációkutatás;Sz;2024.11.30 09:30;60;40;C104
+LBT_IM456K3;Operációs rendszerek;Sz;2024.12.01 11:30;70;41;C121
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.01 13:00;80;44;C204
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.01 11:30;55;9;C203
+LBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.01 11:30;5;1;C204
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.01 13:00;50;48;C204
+TBT_IM123K3;Kalkulus I;I;2024.12.01 10:00;10;1;C121
+TBT_IM643K2;Szoftverjog;I;2024.12.01 11:30;85;51;C104
+TBT_IM643K2;Szoftverjog;I;2024.12.01 13:00;20;7;C204
+LBT_IM123K3;Kalkulus I;I;2024.12.01 09:30;95;11;C104
+TBT_IM456K3;Operációs rendszerek;I;2024.12.01 11:30;15;6;C203
+TBT_IM345K2;Operációkutatás;Sz;2024.12.01 09:30;60;58;C124
+LBT_IM123K3;Kalkulus I;I;2024.12.02 13:00;15;4;C124
+LBT_IM456K3;Operációs rendszerek;I;2024.12.02 11:30;65;62;C104
+NBT_IM123K3;Kalkulus I;Sz;2024.12.02 13:00;75;66;C203
+LBT_IM123K3;Kalkulus I;I;2024.12.02 13:00;65;44;C205
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.02 13:00;10;0;C203
+NBT_IM123K3;Kalkulus I;I;2024.12.02 15:00;15;7;C124
+LBT_IM456K3;Operációs rendszerek;I;2024.12.02 09:30;40;17;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.02 11:30;5;3;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.02 15:00;40;15;C204
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.03 15:00;90;53;C205
+TBT_IM123K3;Kalkulus I;I;2024.12.03 11:30;50;9;C104
+NBT_IM456K3;Operációs rendszerek;I;2024.12.03 11:30;25;17;C121
+NBT_IM123K3;Kalkulus I;I;2024.12.03 11:30;80;3;C203
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.03 15:00;85;51;C104
+LBT_IM345K2;Operációkutatás;I;2024.12.03 15:00;40;20;C104
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.03 11:30;70;8;C205
+LBT_IM643K2;Szoftverjog;I;2024.12.03 10:00;35;19;C124
+NBT_IM123K3;Kalkulus I;I;2024.12.04 15:00;85;74;C121
+LBT_IM345K2;Operációkutatás;Sz;2024.12.04 09:30;70;53;C204
+TBT_IM345K2;Operációkutatás;I;2024.12.04 10:00;85;22;C205
+NBT_IM345K2;Operációkutatás;I;2024.12.04 15:00;10;9;C121
+TBT_IM345K2;Operációkutatás;Sz;2024.12.04 15:00;80;71;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.04 11:30;50;29;C124
+TBT_IM643K2;Szoftverjog;I;2024.12.04 11:30;65;60;C121
+TBT_IM123K3;Kalkulus I;I;2024.12.04 09:30;50;22;C203
+LBT_IM123K3;Kalkulus I;Sz;2024.12.04 15:00;25;3;C124
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.04 10:00;35;5;C204
+TBT_IM345K2;Operációkutatás;I;2024.12.05 11:30;70;49;C205
+NBT_IM123K3;Kalkulus I;I;2024.12.05 11:30;15;9;C204
+LBT_IM643K2;Szoftverjog;Sz;2024.12.05 10:00;10;8;C124
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.05 15:00;70;69;C104
+LBT_IM345K2;Operációkutatás;Sz;2024.12.05 11:30;25;25;C121
+NBT_IM643K2;Szoftverjog;I;2024.12.06 15:00;90;18;C205
+TBT_IM456K3;Operációs rendszerek;I;2024.12.06 09:30;5;0;C205
+LBT_IM456K3;Operációs rendszerek;I;2024.12.06 10:00;35;1;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.06 11:30;40;19;C205
+LBT_IM456K3;Operációs rendszerek;Sz;2024.12.06 15:00;45;20;C104
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.06 09:30;35;29;C205
+LBT_IM456K3;Operációs rendszerek;I;2024.12.06 13:00;90;68;C203
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.06 15:00;40;17;C121
+TBT_IM643K2;Szoftverjog;Sz;2024.12.06 15:00;5;2;C204
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.07 10:00;55;9;C121
+LBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.07 11:30;10;10;C204
+LBT_IM643K2;Szoftverjog;I;2024.12.07 10:00;35;11;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.07 09:30;20;7;C204
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.07 13:00;5;1;C204
+LBT_IM345K2;Operációkutatás;I;2024.12.07 15:00;5;3;C124
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.07 15:00;10;1;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.07 09:30;70;41;C204
+TBT_IM123K3;Kalkulus I;Sz;2024.12.07 15:00;45;16;C124
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.08 10:00;85;61;C124
+LBT_IM456K3;Operációs rendszerek;Sz;2024.12.08 15:00;25;12;C203
+TBT_IM345K2;Operációkutatás;Sz;2024.12.08 11:30;60;22;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.08 13:00;80;74;C205
+LBT_IM643K2;Szoftverjog;Sz;2024.12.08 09:30;45;13;C124
+LBT_IM345K2;Operációkutatás;Sz;2024.12.08 10:00;65;59;C124
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.09 09:30;30;30;C121
+LBT_IM123K3;Kalkulus I;I;2024.12.09 15:00;95;54;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.09 13:00;10;10;C104
+TBT_IM345K2;Operációkutatás;Sz;2024.12.09 11:30;15;2;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.09 09:30;80;1;C205
+TBT_IM123K3;Kalkulus I;I;2024.12.09 11:30;55;17;C205
+TBT_IM123K3;Kalkulus I;Sz;2024.12.09 15:00;40;9;C204
+TBT_IM123K3;Kalkulus I;I;2024.12.09 09:30;65;2;C121
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.09 15:00;30;10;C204
+LBT_IM345K2;Operációkutatás;Sz;2024.12.09 10:00;35;22;C121
+LBT_IM123K3;Kalkulus I;I;2024.12.09 15:00;15;4;C204
+LBT_IM456K3;Operációs rendszerek;I;2024.12.09 11:30;15;15;C124
+NBT_IM643K2;Szoftverjog;I;2024.12.09 10:00;10;10;C121
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.10 13:00;80;69;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.10 10:00;30;16;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.10 11:30;90;90;C204
+NBT_IM643K2;Szoftverjog;I;2024.12.10 10:00;30;12;C124
+NBT_IM345K2;Operációkutatás;I;2024.12.10 09:30;25;20;C204
+TBT_IM345K2;Operációkutatás;I;2024.12.10 09:30;60;26;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.10 15:00;30;0;C124
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.10 15:00;40;4;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.10 10:00;25;14;C205
+TBT_IM643K2;Szoftverjog;I;2024.12.11 11:30;65;63;C204
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.11 13:00;45;22;C121
+TBT_IM643K2;Szoftverjog;I;2024.12.11 13:00;50;43;C203
+LBT_IM456K3;Operációs rendszerek;Sz;2024.12.11 11:30;95;24;C205
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.11 13:00;75;63;C204
+NBT_IM345K2;Operációkutatás;I;2024.12.11 09:30;60;4;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.11 13:00;70;8;C203
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.11 11:30;5;1;C104
+LBT_IM643K2;Szoftverjog;I;2024.12.12 13:00;90;53;C204
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.12 11:30;35;35;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.12 13:00;10;9;C104
+NBT_IM123K3;Kalkulus I;I;2024.12.12 09:30;55;35;C204
+LBT_IM643K2;Szoftverjog;I;2024.12.12 15:00;50;28;C204
+NBT_IM643K2;Szoftverjog;Sz;2024.12.12 09:30;80;7;C203
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.12 10:00;25;12;C104
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.12 15:00;80;59;C104
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.13 11:30;15;15;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.13 09:30;45;45;C205
+TBT_IM643K2;Szoftverjog;Sz;2024.12.13 10:00;85;11;C203
+LBT_IM643K2;Szoftverjog;I;2024.12.13 10:00;5;5;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.13 13:00;20;4;C121
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.13 13:00;20;16;C104
+NBT_IM123K3;Kalkulus I;Sz;2024.12.13 09:30;20;8;C204
+NBT_IM345K2;Operációkutatás;Sz;2024.12.13 11:30;55;46;C203
+LBT_IM123K3;Kalkulus I;Sz;2024.12.13 10:00;70;68;C204
+NBT_IM456K3;Operációs rendszerek;Sz;2024.12.14 09:30;60;52;C204
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.14 09:30;75;10;C121
+TBT_IM123K3;Kalkulus I;Sz;2024.12.14 15:00;75;47;C204
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.14 13:00;20;8;C104
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.14 15:00;5;1;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.14 11:30;10;10;C124
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.14 09:30;70;70;C124
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.14 13:00;15;4;C121
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.14 10:00;10;1;C124
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.15 15:00;70;14;C104
+LBT_IM643K2;Szoftverjog;Sz;2024.12.15 10:00;85;75;C124
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.15 11:30;85;66;C124
+NBT_IM345K2;Operációkutatás;Sz;2024.12.15 11:30;80;30;C104
+LBT_IM123K3;Kalkulus I;I;2024.12.15 09:30;70;66;C205
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.15 15:00;50;50;C203
+NBT_IM123K3;Kalkulus I;Sz;2024.12.15 10:00;25;9;C205
+LBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.15 09:30;75;39;C104
+NBT_IM345K2;Operációkutatás;I;2024.12.16 11:30;30;18;C124
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.16 15:00;85;82;C121
+TBT_IM345K2;Operációkutatás;Sz;2024.12.16 10:00;65;42;C121
+LBT_IM123K3;Kalkulus I;I;2024.12.16 09:30;80;14;C124
+TBT_IM643K2;Szoftverjog;Sz;2024.12.16 09:30;80;73;C121
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.16 15:00;45;45;C104
+NBT_IM643K2;Szoftverjog;I;2024.12.16 15:00;75;38;C204
+LBT_IM345K2;Operációkutatás;Sz;2024.12.16 09:30;70;27;C203
+TBT_IM345K2;Operációkutatás;Sz;2024.12.16 09:30;50;45;C204
+LBT_IM456K3;Operációs rendszerek;I;2024.12.16 10:00;85;73;C104
+TBT_IM123K3;Kalkulus I;I;2024.12.16 11:30;30;9;C203
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.16 11:30;60;37;C205
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.16 10:00;15;15;C205
+LBT_IM456K3;Operációs rendszerek;I;2024.12.17 11:30;25;18;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.17 09:30;45;24;C203
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.17 15:00;25;14;C124
+LBT_IM456K3;Operációs rendszerek;I;2024.12.17 10:00;10;6;C124
+NBT_IM123K3;Kalkulus I;I;2024.12.17 10:00;45;16;C205
+NBT_IM123K3;Kalkulus I;Sz;2024.12.17 13:00;15;14;C205
+LBT_IM456K3;Operációs rendszerek;I;2024.12.18 11:30;75;50;C104
+LBT_IM345K2;Operációkutatás;I;2024.12.18 13:00;95;29;C104
+LBT_IM643K2;Szoftverjog;I;2024.12.18 15:00;30;1;C104
+NBT_IM456K3;Operációs rendszerek;Sz;2024.12.18 11:30;10;9;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.18 10:00;75;66;C203
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.18 13:00;75;19;C124
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.18 10:00;45;24;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.18 15:00;80;39;C124
+NBT_IM643K2;Szoftverjog;I;2024.12.18 15:00;95;52;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.19 09:30;60;11;C203
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.19 15:00;70;29;C124
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.19 11:30;35;25;C104
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.19 13:00;70;48;C121
+LBT_IM456K3;Operációs rendszerek;Sz;2024.12.19 11:30;20;12;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.19 15:00;60;10;C204
+NBT_IM456K3;Operációs rendszerek;I;2024.12.19 15:00;60;10;C205
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.19 10:00;55;9;C104
+NBT_IM123K3;Kalkulus I;I;2024.12.19 10:00;35;18;C104
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.19 11:30;15;9;C121
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.19 11:30;60;42;C203
+TBT_IM643K2;Szoftverjog;Sz;2024.12.20 10:00;5;3;C121
+LBT_IM643K2;Szoftverjog;Sz;2024.12.20 11:30;45;16;C124
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.20 10:00;5;1;C121
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.20 10:00;80;41;C204
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.20 10:00;85;8;C203
+NBT_IM123K3;Kalkulus I;I;2024.12.21 09:30;35;25;C205
+TBT_IM123K3;Kalkulus I;I;2024.12.21 15:00;80;15;C124
+LBT_IM123K3;Kalkulus I;I;2024.12.21 13:00;85;35;C121
+NBT_IM643K2;Szoftverjog;I;2024.12.21 15:00;85;42;C104
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.21 09:30;45;36;C121
+TBT_IM123K3;Kalkulus I;Sz;2024.12.21 11:30;95;17;C204
+TBT_IM456K3;Operációs rendszerek;Sz;2024.12.22 15:00;30;2;C124
+NBT_IM643K2;Szoftverjog;I;2024.12.22 13:00;70;20;C203
+NBT_IM643K2;Szoftverjog;I;2024.12.22 11:30;55;51;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.22 15:00;10;8;C203
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.22 09:30;15;1;C203
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.22 10:00;45;1;C121
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.22 13:00;90;73;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.22 09:30;10;10;C204
+TBT_IM345K2;Operációkutatás;I;2024.12.22 11:30;85;42;C121
+NBT_IM643K2;Szoftverjog;I;2024.12.23 09:30;60;24;C205
+TBT_IM345K2;Operációkutatás;I;2024.12.23 10:00;45;3;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.23 09:30;25;1;C203
+LBT_IM123K3;Kalkulus I;I;2024.12.23 10:00;85;71;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.23 10:00;45;20;C124
+LBT_IM345K2;Operációkutatás;Sz;2024.12.23 15:00;90;49;C124
+NBT_IM643K2;Szoftverjog;Sz;2024.12.23 11:30;50;0;C204
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.23 15:00;30;0;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.24 11:30;60;8;C124
+TBT_IM123K3;Kalkulus I;Sz;2024.12.24 10:00;30;6;C124
+LBT_IM345K2;Operációkutatás;Sz;2024.12.24 11:30;80;19;C205
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.24 09:30;65;5;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.24 15:00;35;1;C104
+NBT_IM123K3;Kalkulus I;Sz;2024.12.24 15:00;95;88;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.24 13:00;65;22;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.24 09:30;40;34;C203
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.24 11:30;55;1;C124
+NBT_IM643K2;Szoftverjog;I;2024.12.25 15:00;30;20;C124
+LBT_IM643K2;Szoftverjog;I;2024.12.25 15:00;75;17;C204
+NBT_IM456K3;Operációs rendszerek;I;2024.12.25 15:00;55;42;C104
+TBT_IM123K3;Kalkulus I;I;2024.12.25 10:00;25;22;C205
+NBT_IM345K2;Operációkutatás;I;2024.12.25 13:00;90;58;C203
+NBT_IM345K2;Operációkutatás;I;2024.12.25 09:30;45;27;C121
+TBT_IM345K2;Operációkutatás;I;2024.12.26 13:00;45;14;C121
+TBT_IM643K2;Szoftverjog;Sz;2024.12.26 10:00;75;39;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.26 09:30;55;6;C204
+LBT_IM345K2;Operációkutatás;Sz;2024.12.26 10:00;20;16;C204
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.26 11:30;65;37;C204
+LBT_IM123K3;Kalkulus I;I;2024.12.27 13:00;80;28;C124
+LBT_IM643K2;Szoftverjog;Sz;2024.12.27 13:00;5;4;C124
+NBT_IM123K3;Kalkulus I;Sz;2024.12.27 11:30;50;2;C124
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.27 13:00;65;60;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.27 09:30;20;11;C121
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.27 10:00;50;43;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.27 10:00;50;30;C204
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.28 11:30;15;15;C124
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.28 10:00;20;7;C204
+TBT_IM643K2;Szoftverjog;I;2024.12.28 10:00;50;38;C104
+NBT_IM345K2;Operációkutatás;I;2024.12.28 11:30;95;9;C121
+TBT_IM643K2;Szoftverjog;Sz;2024.12.28 15:00;80;37;C203
+TBT_IM643K2;Szoftverjog;I;2024.12.28 15:00;40;40;C121
+NBT_IM123K3;Kalkulus I;I;2024.12.28 10:00;30;7;C204
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.28 15:00;20;11;C124
+TBT_IM345K2;Operációkutatás;Sz;2024.12.29 11:30;65;1;C205
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.29 15:00;50;48;C203
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.29 11:30;30;5;C203
+TBT_IM123K3;Kalkulus I;I;2024.12.29 10:00;30;11;C104
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2024.12.29 10:00;50;47;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.29 11:30;65;13;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.29 10:00;80;38;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.29 09:30;65;4;C205
+LBT_IM123K3;Kalkulus I;Sz;2024.12.30 13:00;65;52;C104
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2024.12.30 13:00;25;24;C205
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.30 10:00;20;9;C204
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2024.12.30 09:30;80;3;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2024.12.30 15:00;5;2;C121
+TBT_IM456K3;Operációs rendszerek;Sz;2024.12.30 13:00;55;53;C203
+LBT_IM456K3;Operációs rendszerek;I;2024.12.30 09:30;30;6;C104
+NBT_IM643K2;Szoftverjog;I;2024.12.30 10:00;50;1;C203
+NBT_IM456K3;Operációs rendszerek;I;2024.12.30 11:30;25;19;C121
+TBT_IM345K2;Operációkutatás;I;2024.12.31 10:00;80;74;C104
+TBT_IM123K3;Kalkulus I;Sz;2024.12.31 10:00;80;20;C121
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2024.12.31 09:30;40;9;C104
+NBT_IM456K3;Operációs rendszerek;Sz;2024.12.31 09:30;65;12;C104
+TBT_IM643K2;Szoftverjog;Sz;2024.12.31 15:00;15;14;C205
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2024.12.31 11:30;35;35;C124
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.01 13:00;30;25;C204
+LBT_IM643K2;Szoftverjog;Sz;2025.01.01 10:00;55;10;C121
+TBT_IM123K3;Kalkulus I;I;2025.01.01 09:30;50;28;C205
+LBT_IM123K3;Kalkulus I;I;2025.01.01 09:30;95;54;C104
+TBT_IM643K2;Szoftverjog;Sz;2025.01.01 10:00;50;47;C124
+LBT_IM456K3;Operációs rendszerek;I;2025.01.01 13:00;65;50;C124
+TBT_IM456K3;Operációs rendszerek;Sz;2025.01.01 15:00;50;45;C203
+NBT_IM345K2;Operációkutatás;I;2025.01.02 15:00;5;1;C124
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.02 11:30;10;2;C203
+TBT_IM456K3;Operációs rendszerek;I;2025.01.02 11:30;30;4;C203
+NBT_IM123K3;Kalkulus I;I;2025.01.02 11:30;10;10;C121
+LBT_IM345K2;Operációkutatás;I;2025.01.02 11:30;5;1;C121
+TBT_IM456K3;Operációs rendszerek;I;2025.01.02 11:30;40;37;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.02 10:00;10;4;C203
+TBT_IM456K3;Operációs rendszerek;I;2025.01.02 11:30;25;25;C124
+NBT_IM123K3;Kalkulus I;I;2025.01.02 15:00;60;13;C121
+NBT_IM456K3;Operációs rendszerek;Sz;2025.01.02 09:30;50;46;C124
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.02 13:00;40;40;C104
+LBT_IM123K3;Kalkulus I;I;2025.01.02 10:00;55;25;C104
+TBT_IM123K3;Kalkulus I;I;2025.01.02 10:00;35;25;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.03 13:00;45;36;C104
+TBT_IM123K3;Kalkulus I;I;2025.01.03 09:30;35;16;C104
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.03 13:00;85;52;C205
+NBT_IM643K2;Szoftverjog;I;2025.01.03 15:00;45;40;C203
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.03 15:00;30;30;C104
+NBT_IM123K3;Kalkulus I;I;2025.01.04 15:00;10;2;C124
+TBT_IM123K3;Kalkulus I;I;2025.01.04 13:00;70;38;C204
+TBT_IM456K3;Operációs rendszerek;Sz;2025.01.04 11:30;45;39;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.04 11:30;65;12;C205
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.04 10:00;5;2;C203
+LBT_IM456K3;Operációs rendszerek;Sz;2025.01.04 11:30;50;7;C124
+LBT_IM123K3;Kalkulus I;Sz;2025.01.04 13:00;25;16;C104
+LBT_IM643K2;Szoftverjog;I;2025.01.04 13:00;80;50;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.04 09:30;75;72;C104
+LBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.04 11:30;20;0;C121
+NBT_IM123K3;Kalkulus I;I;2025.01.04 09:30;65;12;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.04 10:00;60;60;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.05 15:00;15;15;C204
+NBT_IM643K2;Szoftverjog;I;2025.01.05 15:00;75;17;C104
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.05 15:00;60;57;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.05 15:00;70;0;C124
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.05 10:00;65;65;C203
+TBT_IM643K2;Szoftverjog;Sz;2025.01.05 15:00;90;67;C203
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.05 10:00;45;0;C203
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.06 13:00;75;56;C121
+LBT_IM643K2;Szoftverjog;I;2025.01.06 09:30;55;35;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.06 09:30;10;5;C205
+NBT_IM123K3;Kalkulus I;Sz;2025.01.06 15:00;20;10;C204
+NBT_IM456K3;Operációs rendszerek;I;2025.01.06 15:00;10;5;C124
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.06 11:30;50;39;C203
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.06 13:00;30;0;C203
+NBT_IM456K3;Operációs rendszerek;I;2025.01.06 15:00;80;12;C121
+TBT_IM643K2;Szoftverjog;Sz;2025.01.06 11:30;90;67;C124
+LBT_IM345K2;Operációkutatás;I;2025.01.07 15:00;75;50;C121
+TBT_IM345K2;Operációkutatás;I;2025.01.07 10:00;95;44;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.07 11:30;65;6;C203
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.07 10:00;10;9;C203
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.07 10:00;15;12;C104
+TBT_IM643K2;Szoftverjog;I;2025.01.07 11:30;50;20;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.08 11:30;75;45;C121
+NBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.08 13:00;20;14;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.08 15:00;5;4;C121
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.08 15:00;45;21;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.08 11:30;75;48;C104
+LBT_IM456K3;Operációs rendszerek;I;2025.01.08 11:30;15;11;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.08 11:30;40;8;C121
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.08 10:00;95;52;C204
+TBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.09 09:30;5;3;C124
+NBT_IM643K2;Szoftverjog;Sz;2025.01.09 09:30;85;2;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.09 15:00;25;13;C204
+NBT_IM456K3;Operációs rendszerek;I;2025.01.09 13:00;5;3;C121
+LBT_IM643K2;Szoftverjog;Sz;2025.01.09 09:30;15;5;C121
+NBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.09 13:00;95;27;C203
+LBT_IM345K2;Operációkutatás;Sz;2025.01.09 11:30;55;18;C104
+LBT_IM643K2;Szoftverjog;I;2025.01.09 09:30;45;24;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.09 09:30;95;45;C124
+NBT_IM456K3;Operációs rendszerek;I;2025.01.09 13:00;85;64;C124
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.09 09:30;60;29;C203
+NBT_IM456K3;Operációs rendszerek;I;2025.01.10 11:30;35;25;C205
+TBT_IM643K2;Szoftverjog;Sz;2025.01.10 11:30;40;29;C204
+TBT_IM123K3;Kalkulus I;Sz;2025.01.10 15:00;55;52;C104
+NBT_IM345K2;Operációkutatás;I;2025.01.10 13:00;90;46;C204
+LBT_IM123K3;Kalkulus I;I;2025.01.10 15:00;30;28;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.10 13:00;95;6;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.10 10:00;70;15;C205
+TBT_IM123K3;Kalkulus I;I;2025.01.10 15:00;30;0;C124
+TBT_IM456K3;Operációs rendszerek;Sz;2025.01.10 15:00;40;25;C203
+TBT_IM456K3;Operációs rendszerek;I;2025.01.10 09:30;55;7;C104
+LBT_IM456K3;Operációs rendszerek;I;2025.01.11 15:00;5;1;C204
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.11 11:30;40;18;C204
+LBT_IM456K3;Operációs rendszerek;I;2025.01.11 09:30;10;1;C205
+TBT_IM456K3;Operációs rendszerek;Sz;2025.01.11 13:00;70;11;C121
+LBT_IM345K2;Operációkutatás;I;2025.01.11 13:00;85;73;C205
+TBT_IM345K2;Operációkutatás;I;2025.01.11 13:00;65;13;C104
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.11 15:00;65;56;C204
+LBT_IM456K3;Operációs rendszerek;I;2025.01.11 15:00;40;5;C124
+TBT_IM345K2;Operációkutatás;I;2025.01.12 09:30;70;60;C104
+LBT_IM643K2;Szoftverjog;Sz;2025.01.12 09:30;75;48;C205
+TBT_IM345K2;Operációkutatás;I;2025.01.12 13:00;55;43;C203
+LBT_IM456K3;Operációs rendszerek;Sz;2025.01.12 11:30;85;75;C203
+NBT_IM123K3;Kalkulus I;I;2025.01.12 15:00;90;79;C104
+TBT_IM345K2;Operációkutatás;I;2025.01.12 15:00;35;19;C203
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.12 10:00;35;1;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.12 11:30;75;73;C203
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.12 15:00;45;31;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.13 10:00;25;17;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.13 10:00;10;9;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.13 11:30;95;46;C104
+TBT_IM123K3;Kalkulus I;I;2025.01.13 15:00;55;33;C205
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.13 09:30;30;30;C203
+TBT_IM643K2;Szoftverjog;Sz;2025.01.14 09:30;30;8;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.14 13:00;70;19;C121
+NBT_IM345K2;Operációkutatás;Sz;2025.01.14 15:00;20;11;C203
+NBT_IM643K2;Szoftverjog;I;2025.01.14 10:00;25;14;C203
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.14 15:00;80;5;C205
+TBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.14 09:30;35;20;C204
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.14 15:00;10;4;C104
+TBT_IM345K2;Operációkutatás;Sz;2025.01.14 13:00;10;10;C121
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.15 09:30;95;46;C121
+TBT_IM345K2;Operációkutatás;I;2025.01.15 11:30;55;11;C203
+LBT_IM123K3;Kalkulus I;I;2025.01.15 15:00;20;10;C204
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.15 11:30;45;45;C124
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.15 15:00;55;55;C124
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.15 09:30;65;42;C104
+NBT_IM123K3;Kalkulus I;Sz;2025.01.15 13:00;75;52;C203
+TBT_IM345K2;Operációkutatás;Sz;2025.01.15 11:30;55;50;C203
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.15 10:00;25;11;C104
+TBT_IM456K3;Operációs rendszerek;Sz;2025.01.15 15:00;5;0;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.15 11:30;65;64;C104
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.16 09:30;15;4;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.16 13:00;10;0;C121
+NBT_IM345K2;Operációkutatás;Sz;2025.01.16 09:30;50;1;C104
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.16 13:00;40;27;C104
+TBT_IM643K2;Szoftverjog;Sz;2025.01.16 11:30;80;10;C204
+TBT_IM123K3;Kalkulus I;I;2025.01.16 10:00;75;69;C203
+TBT_IM478K3;Magasszintű programozási nyelvek I;Sz;2025.01.16 13:00;55;15;C121
+LBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.16 15:00;70;15;C204
+TBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.16 13:00;55;2;C104
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.16 11:30;50;29;C203
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.16 09:30;5;5;C104
+TBT_IM123K3;Kalkulus I;I;2025.01.16 09:30;70;27;C124
+NBT_IM345K2;Operációkutatás;Sz;2025.01.17 15:00;50;38;C121
+TBT_IM345K2;Operációkutatás;I;2025.01.17 13:00;50;9;C121
+LBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.17 15:00;5;1;C124
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.17 10:00;45;33;C124
+LBT_IM643K2;Szoftverjog;I;2025.01.17 11:30;65;42;C104
+LBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.17 09:30;80;60;C121
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.18 09:30;95;32;C203
+TBT_IM123K3;Kalkulus I;I;2025.01.18 13:00;30;7;C121
+NBT_IM123K3;Kalkulus I;I;2025.01.18 09:30;60;24;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;Sz;2025.01.18 13:00;70;16;C121
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.18 15:00;35;23;C203
+NBT_IM345K2;Operációkutatás;I;2025.01.18 13:00;20;0;C205
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.19 15:00;80;26;C104
+TBT_IM345K2;Operációkutatás;I;2025.01.19 10:00;70;7;C205
+NBT_IM345K2;Operációkutatás;Sz;2025.01.19 09:30;45;18;C121
+TBT_IM643K2;Szoftverjog;I;2025.01.19 13:00;40;17;C204
+LBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.19 11:30;85;13;C121
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.19 10:00;60;53;C204
+LBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.19 10:00;60;7;C203
+LBT_IM345K2;Operációkutatás;I;2025.01.19 11:30;95;46;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.19 15:00;60;6;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.20 10:00;10;6;C205
+TBT_IM478K3;Magasszintű programozási nyelvek I;I;2025.01.20 15:00;55;4;C203
+TBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.20 13:00;75;75;C205
+TBT_IM643K2;Szoftverjog;I;2025.01.20 13:00;40;8;C203
+NBT_IM123K3;Kalkulus I;I;2025.01.20 10:00;60;49;C204
+NBT_IM456K3;Operációs rendszerek;I;2025.01.20 09:30;20;14;C205
+NBT_IM234K2;Bevezetés a számítógépi grafikába;Sz;2025.01.20 09:30;65;37;C121
+LBT_IM456K3;Operációs rendszerek;I;2025.01.20 15:00;15;11;C124
+NBT_IM234K2;Bevezetés a számítógépi grafikába;I;2025.01.20 13:00;90;25;C203
+NBT_IM123K3;Kalkulus I;Sz;2025.01.20 15:00;20;3;C204
+TBT_IM456K3;Operációs rendszerek;I;2025.01.20 13:00;75;35;C203
+TBT_IM345K2;Operációkutatás;I;2025.01.20 10:00;75;49;C205
+NBT_IM364K3;Adatszerkezetek és algoritmusok;I;2025.01.20 09:30;20;8;C204
